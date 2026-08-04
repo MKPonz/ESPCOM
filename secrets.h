@@ -1,8 +1,5 @@
 /*
- * secrets.example.h
- *
- * Copy this to secrets.h and fill in your own values.
- * secrets.h is gitignored -- do not commit it..
+ * secrets.h
  *
  * The four wificom.dev values come from registering an account and adding
  * a device at https://wificom.dev. They are issued by the site; you cannot
