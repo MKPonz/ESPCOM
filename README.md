@@ -23,19 +23,14 @@ and can drive output.
    Espressif). Board: **ESP32 Dev Module**.
 2. Library Manager → install **PubSubClient** (Nick O'Leary) and
    **ArduinoJson** v7 (Benoit Blanchon).
-3. Copy `secrets.example.h` to `secrets.h` and fill in the wificom.dev
+3. Open `secrets.h` and fill in the wificom.dev
    values. 
 4. Upload. Baud Rate: **115200**.
 
 ### Generating DigiROMs
 
-Set the toy to **Battle → 20th** for battles, or **Copymon → receive** for
+Set the toy to **Battle → 20th** for battles, or **Copymon → Get** for
 `--copy`.
-
-### Phone control
-
-The device serves a web page on port 80, so you can enter DigiROMs and
-change WiFi credentials from a phone with no app and no USB cable.
 
 **First boot** — a freshly flashed device has no WiFi credentials, so it
 comes up as its own access point, `ESPCom-Setup` (password `digimon2026`).
