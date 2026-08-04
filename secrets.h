@@ -18,7 +18,7 @@
 #define MQTT_USERNAME   "[wificom.dev username]"
 #define MQTT_PASSWORD   "[wificom.dev generated password]"
 #define USER_UUID       "[wificon.dev generated USER_UUID]"
-#define DEVICE_UUID     "[wificom.dev generate DEVICE_UUID]"
+#define DEVICE_UUID     "[wificom.dev generated DEVICE_UUID]"
 
 // Broker. Port 8883 is MQTT over TLS.
 #define MQTT_BROKER     "mqtt.wificom.dev"
