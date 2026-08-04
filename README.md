@@ -1,4 +1,4 @@
-# ESCom — an ESP32 A-Com for Digimon virtual pets
+# ESPCom — an ESP32 A-Com for Digimon virtual pets
 
 A ESP32 port of the [DMComm](https://dmcomm.github.io/) A-Com,
 built for the **Digital Monster Ver. 20th (DM20)**. It lets an ESP32 act as
